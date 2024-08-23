@@ -8,7 +8,7 @@
 .hero {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #B97979, #8B4143);
+    background: linear-gradient(45deg, #B97979, #CE9C9F);
     display:flex;
     align-items: center;
     justify-content: center;
@@ -20,7 +20,7 @@
     background: #fff;
     display: flex;
     align-items: center;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .left, .right {
@@ -35,7 +35,7 @@
 .right {
     width: 42%;
     background: #96BB80;
-    border-radius: 0 10px 10px 0;
+    border-radius: 0 15px 15px 0;
     color: #fff;
 }
 
