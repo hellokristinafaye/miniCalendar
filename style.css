@@ -35,4 +35,9 @@
 .right {
     background: #96BB80;
     border-radius: 0 10px 10px 0;
+    color: #fff;
+}
+
+.left {
+    color: #96BB80;
 }
