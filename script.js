@@ -14,6 +14,6 @@ const allMonths = ["January", "February", "March", "April", "May", "June", "July
     
 
 date.innerHTML = today.getDate();
-day.innerHTML = today.getDay();
-month.innerHTML = today.getMonth();
-year.innerHTML = today.getYear();
+day.innerHTML =weekDays[today.getDay()];
+month.innerHTML = allMonths[today.getMonth()];
+year.innerHTML = today.getFullYear();
