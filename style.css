@@ -43,3 +43,8 @@
     color: #96BB80;
     width: 58%;
 }
+
+#date {
+    font-size: 100px;
+    line-height: 90px;
+}
